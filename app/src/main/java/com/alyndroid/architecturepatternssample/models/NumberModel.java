@@ -1,7 +1,7 @@
-package com.alyndroid.architecturepatternstutorialshomework;
+package com.alyndroid.architecturepatternssample.models;
 
 public class NumberModel {
-    private int firstNum, secondNum;
+    private final int firstNum, secondNum;
 
     public NumberModel(int firstNum, int secondNum) {
         this.firstNum = firstNum;

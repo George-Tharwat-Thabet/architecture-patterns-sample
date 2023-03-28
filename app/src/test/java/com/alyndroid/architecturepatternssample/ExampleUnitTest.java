@@ -1,4 +1,4 @@
-package com.alyndroid.architecturepatternstutorialshomework;
+package com.alyndroid.architecturepatternssample;
 
 import org.junit.Test;
 

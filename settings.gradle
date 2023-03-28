@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Architecture Patterns Tutorials homework'
+rootProject.name='architecture-patterns-sample'

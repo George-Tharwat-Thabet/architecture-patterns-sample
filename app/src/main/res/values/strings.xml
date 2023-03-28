@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Architecture Patterns Tutorials homework</string>
+    <string name="app_name">architecture-patterns-sample</string>
     <string name="plus">+</string>
     <string name="multi">*</string>
     <string name="div">/</string>
